@@ -26,3 +26,9 @@ The Vue app network tab in the browser console.
 
 The Angular app network tab in the browser console.
 ![code](screenshots/react-network.png)
+
+---
+
+The disk space used.
+
+![code](screenshots/space-used.png)
