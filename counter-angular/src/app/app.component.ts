@@ -7,7 +7,6 @@ import { Component } from "@angular/core";
 })
 export class AppComponent {
   title = "counter-angular";
-
   count = 0
 
   increment() {
